@@ -1,0 +1,13 @@
+C:\Users\soeltee2\Documents\LAP 6 W01250636\LAP 6 W01250636\bin\Debug\Emp401K.accdb
+C:\Users\soeltee2\Documents\LAP 6 W01250636\LAP 6 W01250636\bin\Debug\LAP 6 W01250636.exe.config
+C:\Users\soeltee2\Documents\LAP 6 W01250636\LAP 6 W01250636\bin\Debug\LAP 6 W01250636.exe
+C:\Users\soeltee2\Documents\LAP 6 W01250636\LAP 6 W01250636\bin\Debug\LAP 6 W01250636.pdb
+C:\Users\soeltee2\Documents\LAP 6 W01250636\LAP 6 W01250636\bin\Debug\LAP 6 W01250636.xml
+C:\Users\soeltee2\Documents\LAP 6 W01250636\LAP 6 W01250636\obj\Debug\LAP 6 W01250636.vbprojAssemblyReference.cache
+C:\Users\soeltee2\Documents\LAP 6 W01250636\LAP 6 W01250636\obj\Debug\LAP_6_W01250636.Form1.resources
+C:\Users\soeltee2\Documents\LAP 6 W01250636\LAP 6 W01250636\obj\Debug\LAP_6_W01250636.Resources.resources
+C:\Users\soeltee2\Documents\LAP 6 W01250636\LAP 6 W01250636\obj\Debug\LAP 6 W01250636.vbproj.GenerateResource.cache
+C:\Users\soeltee2\Documents\LAP 6 W01250636\LAP 6 W01250636\obj\Debug\LAP 6 W01250636.vbproj.CoreCompileInputs.cache
+C:\Users\soeltee2\Documents\LAP 6 W01250636\LAP 6 W01250636\obj\Debug\LAP 6 W01250636.exe
+C:\Users\soeltee2\Documents\LAP 6 W01250636\LAP 6 W01250636\obj\Debug\LAP 6 W01250636.xml
+C:\Users\soeltee2\Documents\LAP 6 W01250636\LAP 6 W01250636\obj\Debug\LAP 6 W01250636.pdb
